@@ -3,13 +3,6 @@ Chapter 2: Using AI-Powered Idea Generation Tools
 
 In this chapter, we will explore the use of idea generation tools powered by AI to stimulate creativity and innovation. We will examine the different types of algorithms and neural networks used in these tools, as well as best practices for using them effectively.
 
-Sub Chapters
-------------
-
-1. An Overview of Idea Generation Tools Powered by AI, including Algorithms and Neural Networks
-2. How to Use AI-Powered Idea Generation Tools to Stimulate New Ideas and Approaches
-3. Best Practices for Using AI-Powered Idea Generation Tools to Enhance Creativity and Innovation
-
 An Overview of Idea Generation Tools Powered by AI, including Algorithms and Neural Networks
 --------------------------------------------------------------------------------------------
 
