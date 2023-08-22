@@ -1,4 +1,4 @@
-# An Overview of Idea Generation Tools Powered by AI, Including Algorithms and Neural Networks
+
 
 Artificial intelligence (AI) is transforming the way we approach idea generation and innovation. In this chapter, we'll provide an overview of the different types of AI-powered idea generation tools, including algorithms and neural networks.
 

@@ -1,5 +1,4 @@
-Chapter 6: Ethical Considerations and Best Practices for AI-Powered Creativity
-==============================================================================
+
 
 While AI-powered creativity offers exciting opportunities for innovation, it also raises ethical concerns that need to be addressed. In this chapter, we will explore ethical considerations and best practices for AI-powered creativity.
 

@@ -1,5 +1,4 @@
-Chapter 5: Automating Repetitive Tasks with AI
-==============================================
+
 
 In this chapter, we will explore how AI can be used to automate repetitive tasks, freeing up time for more creative pursuits. We will discuss examples of AI-powered automation tools for creative tasks, such as video editing and photo retouching, and best practices for integrating AI-powered automation into the creative process.
 

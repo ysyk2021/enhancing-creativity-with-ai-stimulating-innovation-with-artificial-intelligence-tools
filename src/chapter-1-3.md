@@ -1,5 +1,4 @@
-What You Can Expect from This Book
-================================================
+
 
 Artificial intelligence (AI) has the potential to greatly enhance creativity and innovation by providing new tools and insights. However, many individuals and organizations are still unsure of how to effectively integrate AI into their creative processes.
 

@@ -1,4 +1,4 @@
-# How AI Can Be Used to Automate Repetitive Tasks, Freeing Up Time for More Creative Pursuits
+
 
 In this chapter, we'll focus on how artificial intelligence can be used to automate repetitive tasks in creative workflows. By using AI-powered automation tools, creatives can save valuable time and increase efficiency, allowing them to focus on more high-level tasks that require human creativity and problem-solving skills.
 
