@@ -1,5 +1,4 @@
 
-
 In this chapter, we'll explore the concepts of creativity and innovation and their importance in various fields. By understanding these concepts, we can better appreciate how artificial intelligence can be used to enhance creativity and stimulate innovation.
 
 Defining Creativity

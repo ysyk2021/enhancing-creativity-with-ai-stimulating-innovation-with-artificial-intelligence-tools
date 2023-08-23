@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is transforming the way we approach idea generation and innovation. In this chapter, we'll provide an overview of the different types of AI-powered idea generation tools, including algorithms and neural networks.
 
 Algorithms for Idea Generation

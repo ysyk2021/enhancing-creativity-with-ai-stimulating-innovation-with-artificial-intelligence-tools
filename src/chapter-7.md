@@ -1,5 +1,4 @@
 
-
 While AI-powered creativity offers exciting opportunities for innovation, it also raises ethical concerns that need to be addressed. In this chapter, we will explore ethical considerations and best practices for AI-powered creativity.
 
 Addressing Ethical Concerns Related to Using AI in the Creative Process

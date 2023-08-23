@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) has the potential to greatly enhance the creative process by automating repetitive tasks, generating new ideas, and providing valuable insights and feedback. However, there are also limitations and challenges to using AI in this way. In this chapter, we will explore both the benefits and limitations of using AI in the creative process.
 
 Benefits of Using AI in the Creative Process

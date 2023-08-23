@@ -1,5 +1,4 @@
 
-
 In this chapter, we'll explore the science behind creativity and innovation and how artificial intelligence can be used to enhance these processes. By understanding the underlying mechanisms of creativity and innovation, we can better appreciate how AI can be leveraged to optimize creative workflows and stimulate innovation.
 
 The Science Behind Creativity
