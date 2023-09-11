@@ -1,5 +1,4 @@
-Chapter 5: Examples of AI-Powered Automation Tools for Creative Tasks
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore a variety of AI-powered automation tools that are revolutionizing creative tasks, such as video editing and photo retouching. These innovative technologies are stimulating creativity and enhancing the efficiency of creative professionals across different industries.
 

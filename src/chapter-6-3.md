@@ -1,5 +1,4 @@
-Chapter 6: Best Practices for Integrating AI-Powered Automation into the Creative Process
-=========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore best practices for effectively integrating AI-powered automation tools into the creative process. Successful integration of artificial intelligence tools can enhance creativity, stimulate innovation, and streamline creative workflows while preserving the unique touch of human creativity.
 

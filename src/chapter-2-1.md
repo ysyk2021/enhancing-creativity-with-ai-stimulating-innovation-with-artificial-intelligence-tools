@@ -1,5 +1,4 @@
-Chapter 1: Defining Creativity and Innovation and Their Importance in Various Fields
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this opening chapter, we will explore the fundamental concepts of creativity and innovation, delving into their definitions and their significance across diverse fields and industries. Understanding these core concepts is essential for grasping the transformative potential of artificial intelligence (AI) in enhancing creativity and stimulating innovation.
 

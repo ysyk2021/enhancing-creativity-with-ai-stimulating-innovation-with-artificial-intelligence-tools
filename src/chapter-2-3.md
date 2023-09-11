@@ -1,5 +1,4 @@
-Chapter 2: The Science Behind Creativity and Innovation and How AI Can Enhance These Processes
-==============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the scientific underpinnings of creativity and innovation, shedding light on the cognitive processes that drive these phenomena. Additionally, we will delve into how Artificial Intelligence (AI) can augment and amplify these processes, offering insights and practical applications for enhancing creativity and stimulating innovation.
 

@@ -1,5 +1,4 @@
-Chapter 2: An Overview of Idea Generation Tools Powered by AI, Including Algorithms and Neural Networks
-=======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the landscape of AI-powered idea generation tools, providing an overview of the underlying algorithms and neural networks that drive these innovative creative aids. Understanding the technology behind AI-driven idea generation is essential for harnessing their potential effectively.
 

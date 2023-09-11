@@ -1,5 +1,4 @@
-Chapter 3: Common Barriers to Creativity and Innovation and How AI Can Help Overcome Them
-=========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the common obstacles that impede creativity and innovation in various domains. We will also delve into the ways in which Artificial Intelligence (AI) can serve as a valuable resource for overcoming these barriers, thereby unlocking new possibilities and enhancing creative and innovative endeavors.
 

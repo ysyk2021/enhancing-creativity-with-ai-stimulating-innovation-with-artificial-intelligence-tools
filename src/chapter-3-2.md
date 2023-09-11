@@ -1,5 +1,4 @@
-Chapter 6: How to Use AI-Powered Idea Generation Tools to Stimulate New Ideas and Approaches
-============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into practical strategies and techniques for leveraging AI-powered idea generation tools to spark creativity, stimulate new concepts, and explore innovative approaches across various domains. Harnessing the capabilities of AI for ideation can breathe fresh life into creative processes and drive forward-thinking solutions.
 
